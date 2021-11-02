@@ -7,7 +7,9 @@ import medbot.ui.Ui;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 
-import static medbot.list.ListItemType.*;
+import static medbot.list.ListItemType.APPOINTMENT;
+import static medbot.list.ListItemType.PATIENT;
+import static medbot.list.ListItemType.STAFF;
 
 public class StorageManager {
     private static PatientStorage patientStorage;
