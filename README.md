@@ -7,6 +7,6 @@ to get their management tasks done quicker and more efficiently.
 
 Useful links:
 
-* [User Guide](UserGuide.md)
-* [Developer Guide](DeveloperGuide.md)
-* [About Us](AboutUs.md)
+* [User Guide](https://ay2122s1-cs2113-t13-1.github.io/tp/UserGuide.html)
+* [Developer Guide](https://ay2122s1-cs2113-t13-1.github.io/tp/DeveloperGuide.html)
+* [About Us](https://ay2122s1-cs2113-t13-1.github.io/tp/AboutUs.html)
